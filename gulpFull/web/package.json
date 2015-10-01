@@ -10,13 +10,15 @@
     "gulp-connect": "*",
     "gulp-cssmin": "*",
     "gulp-imagemin": "*",
+    "gulp-jade": "*",
+    "gulp-plumber": "^1.0.1",
     "gulp-rigger": "*",
+    "gulp-rimraf": "*",
     "gulp-sass": "*",
     "gulp-sourcemaps": "*",
     "gulp-uglify": "*",
     "gulp-watch": "*",
     "imagemin-pngquant": "*",
-    "opn": "*",
-    "gulp-rimraf": "*"
+    "opn": "*"
   }
 }
